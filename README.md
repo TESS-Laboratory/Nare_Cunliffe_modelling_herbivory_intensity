@@ -1,9 +1,3 @@
-# Template Readme for TESS Lab Repositories
-
-*This document provides the recommended README template for GitHub repositories accompanying research projects, publications, datasets and software developed within TESS Lab. All public repositories should follow this structure where appropriate to ensure they contain the essential information needed to understand, reproduce and reuse the work.
-
----
-
 # REPLACE WITH PROJECT TITLE
 
 
